@@ -1,0 +1,92 @@
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.deps.json
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.json
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.dev.json
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csprojAssemblyReference.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csproj.CoreCompileInputs.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfoInputs.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.dll
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.input.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.output.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorCoreGenerate.cache
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csproj.CopyComplete
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\Shared\_Layout.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csprojAssemblyReference.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csproj.CoreCompileInputs.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfoInputs.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.input.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.output.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorCoreGenerate.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.deps.json
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.json
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.dev.json
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.dll
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csproj.CopyComplete
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeInputPartialView.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3\WEB\Assignments\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.deps.json
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.json
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.runtimeconfig.dev.json
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.dll
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\bin\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csprojAssemblyReference.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfoInputs.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.AssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.input.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.TagHelpers.output.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorCoreGenerate.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeInputPartialView.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cache
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.RazorTargetAssemblyInfo.cs
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.Views.pdb
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.dll
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.pdb
+E:\Software engineering technology-3409\Term 3-Fall 2019\Web Application Development\Assignments\Assignments\301039271\RecipeAssignment\RecipeAssignment\obj\Debug\netcoreapp2.1\RecipeAssignment.csproj.CopyComplete

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Recipe>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/styleSheet/Recipe.css" rel="stylesheet" />
+    <title>Recipe List</title>
+</head>
+<body>
+    @foreach (var r in Model)
+    {
+    <ul>
+        <li><a asp-action="ViewRecipe" asp-route-id="@r.Id">@r.RecipeName</a></li>        
+    </ul>
+    }
+        </body>
+        </html>

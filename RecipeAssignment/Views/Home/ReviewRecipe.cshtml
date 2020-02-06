@@ -1,0 +1,23 @@
+﻿@model Recipe
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/styleSheet/Recipe.css" rel="stylesheet" />
+    <title>Review Recipe</title>
+</head>
+<body>
+    <h3>Review Recipe</h3>
+    <form>
+        <label asp-for="RecipeName">Recipe name:</label><br />
+        <input asp-for="RecipeName" /><br />
+        <label asp-for="Comments">Comments:</label><br />
+        <textarea asp-for="Ingredient" rows="10" cols="100"></textarea><br />
+        <br />
+        <button type="submit" asp-action="ReviewRecipe">SUBMIT</button>
+    </form>    
+</body>
+</html>

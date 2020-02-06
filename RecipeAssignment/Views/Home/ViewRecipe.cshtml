@@ -1,0 +1,29 @@
+﻿@model Recipe
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/styleSheet/Recipe.css" rel="stylesheet" />
+    <title>View Recipe</title>
+</head>
+<body>
+    <h3>@Model.RecipeName</h3>
+    <img src="@Model.Image" width="200" />
+    <div style="width:950px">
+        <h3>Ingrediants</h3>
+        <p>@Model.Ingredient</p>
+    </div>
+    <br />
+    <div style="width:950px">
+        <h3>Instructions</h3>
+        <p>@Model.Instruction</p>
+    </div>
+    <br />
+    <a asp-action="RecipeList"><strong>BACK</strong></a>
+    <a asp-action="ReviewRecipe"><strong>ADD REVIEW</strong></a>
+    <br />
+</body>
+</html>

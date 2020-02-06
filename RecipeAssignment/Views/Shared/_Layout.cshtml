@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/styleSheet/Recipe.css" rel="stylesheet" />
+</head>
+<body id="allPage">
+    <div>
+        <h1>Olivia's Recipe House</h1>
+        <a asp-action="Index">Home</a>
+        <a asp-action="RecipeList">Recipe List</a>        
+        <a asp-action="AddRecipe">Add Recipe</a>       
+    </div>
+    <br />
+    <div>
+        @RenderBody()
+    </div>
+    <div>
+        <footer>
+            &copy; Copyright Ying Zhao-Assignemnt 1-COMP229-301039271
+        </footer>
+    </div>
+</body>
+</html>

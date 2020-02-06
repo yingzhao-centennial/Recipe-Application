@@ -1,0 +1,19 @@
+﻿@model Recipe
+<h3>New Recipe</h3>
+<form asp-action="AddRecipe" method="post">
+    <label asp-for="RecipeName">Recipe name:</label><br />
+    <input asp-for="RecipeName" /><br />
+
+    <label asp-for="Ingredient">Ingredient:</label><br />
+    <textarea asp-for="Ingredient" rows="10" cols="70"></textarea><br />
+
+    <label asp-for="Instruction">Instruction:</label><br />
+    <textarea asp-for="Instruction" rows="10" cols="100"></textarea><br />
+
+
+
+    <br />
+    <br />
+    <button type="submit">SUBMIT</button>
+    <button asp-action="Index">CANCEL</button>
+</form>
